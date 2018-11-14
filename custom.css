@@ -1,0 +1,30 @@
+body{
+ background-color:#454848;
+ color: white;   
+
+}
+#png{
+    background-color: black;
+}
+.card
+{
+background-color: black;
+}
+.container{
+opacity: 0.2;
+filter:alpha;
+}
+
+.container:hover{
+    opacity:1.0;
+    filter:alpha;
+}
+
+#cf{
+    opacity: 0.2;
+    filter:alpha;   
+}
+#cf:hover{
+    opacity:1.0;
+    filter:alpha;
+}
